@@ -1,0 +1,3 @@
+
+
+text = "Get Profile (locally)";
